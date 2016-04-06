@@ -1,0 +1,28 @@
+name: Glow Duck
+favicon: null
+layout_spectrum: 0.5035782002378255
+typography_spectrum: 0.5718435684684664
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3845147080719471
+  lightness: 0.8045740083325654
+  saturation: 0.4204812338575721
+  rhythmicContrast: 0.31692767422646284
+purpose: []
